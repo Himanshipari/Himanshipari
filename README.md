@@ -76,8 +76,8 @@ An AI-powered conversational platform enabling intelligent and real-time user in
 
 ## 🌍 Let's Connect
 
-- 💼 Portfolio: [Visit My Portfolio](YOUR_PORTFOLIO_LINK)
-- 🔗 LinkedIn: [Himanshi Parihar](YOUR_LINKEDIN_LINK)
+- 💼 Portfolio: [Visit My Portfolio](portfolio-umber-eta-48.vercel.app)
+- 🔗 LinkedIn: [Himanshi Parihar](https://www.linkedin.com/in/himanshiparihar/)
 - 💻 GitHub: [Himanshipari](https://github.com/Himanshipari)
 
 ---
