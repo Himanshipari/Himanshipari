@@ -67,11 +67,6 @@ An AI-powered conversational platform enabling intelligent and real-time user in
 - Linux
 - Mongoose
 
-### Machine Learning
-- Linear Regression
-- Logistic Regression
-- Supervised Learning
-
 ---
 
 ## 🌍 Let's Connect
